@@ -1,3 +1,3 @@
-source "https://my_awesome_source.com" do
+source "https://rubygems.org" do
   gem 'coveralls', require: false
 end
